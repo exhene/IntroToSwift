@@ -1,4 +1,4 @@
-# 30DaysOfSwift
+# IntroToSwift
 
 Swift is a modern, multi-paradigm programming language developed by Apple Inc. in 2014. It is designed to be fast, safe, and easy to use for developing software for Apple's various operating systems, including macOS, iOS, iPadOS, watchOS, and tvOS.
 
